@@ -7,6 +7,7 @@ import { ListadoComponent } from './listado/listado.component';
     declarations: [
         HeroeComponent,
         ListadoComponent
+
     ],
     exports:[
         ListadoComponent
